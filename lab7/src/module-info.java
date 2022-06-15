@@ -1,0 +1,3 @@
+module AnalogCircuit {
+	requires junit;
+}
